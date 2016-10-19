@@ -12,7 +12,7 @@ body{
     font-size: 16px;
     padding-top: 80px;
 }
-td{min-width:100px;min-height:20px;border:solid 1px #000;}
+/*td{min-width:100px;min-height:20px;border:solid 1px #000;}*/
 
 [type=color], [type=date], [type=datetime-local], [type=datetime], [type=email], [type=month], [type=number], [type=password], [type=search], [type=tel], [type=text], [type=time], [type=url], [type=week], textarea {
     display: block;
