@@ -11,6 +11,6 @@ function createTable() {
         }
           tblHtml += '</tr>';
     }
-    tblHtml += '</table>'+'</form>';
+    tblHtml += '<hr>'+'<h3>'+'Please add data respectively to the table'+'</h3>'+'<h4>'+'<span>'+'NB:'+'</span>'+'The first row is the content header'+'</h4>'+'</table>'+'</form>';
     document.getElementById('tb_container').innerHTML = tblHtml;
 }
